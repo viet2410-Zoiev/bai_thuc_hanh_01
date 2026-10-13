@@ -12,7 +12,7 @@ int main (){
 				printf("VN");
 			}
 		}
-		else printf("x = %d", -c/b);
+		else printf(" x = %d", -c/b);
 	}
 	else{
 		int delta;
